@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "cheerio": "*"
+  },
+  "scripts": {
+    "test": "jest --colors",
+    "http-server": "http-server -c1"
+  },
+  "jest": {
+    "bail": true
+  }
+}
